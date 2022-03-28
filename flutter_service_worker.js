@@ -9,9 +9,9 @@ const RESOURCES = {
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "version.json": "03acefc4795e8573b194262cd3a4419f",
 "manifest.json": "493757defcfefaf370ef90ea0954c227",
-"main.dart.js": "c811784ca8d4e7f5293f0541f2d21117",
-"index.html": "da2f85eec9137ca2815eb11501cfe4a3",
-"/": "da2f85eec9137ca2815eb11501cfe4a3",
+"main.dart.js": "c7894fbde736699ca56fa04cc9ae4c01",
+"index.html": "95dd05f37d388db73aee20ac845b2487",
+"/": "95dd05f37d388db73aee20ac845b2487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
@@ -21,8 +21,8 @@ const RESOURCES = {
 "assets/NOTICES": "e805827e5fb9084fa83a9eab1145c7ad",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/fonts/Inconsolata%2520Nerd%2520Font%2520Complete.otf": "8ffa3213e2bcd74be61425a68df60969",
-"assets/AssetManifest.json": "2a26f3e4540c0778fe4b5135908547c8",
-"assets/assets/profile.jpg": "98d3f0c32fa54addeb0a137df10df6c4",
+"assets/AssetManifest.json": "589166ed2956fdc02298681f4410419b",
+"assets/assets/profile.png": "d40312c6f63597c5bdf6f2e9696ae5d0",
 "assets/assets/highway_wireframe_transparent_white.png": "2d6de1397cc1f723496f3a3ecb75d566",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };

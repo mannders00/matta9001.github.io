@@ -54994,7 +54994,7 @@ N(a,b){var s=A.aay(B.tq,null,B.m,B.q7,A.aW(b).p4.VV(B.k,"Inconsolata"))
 return new A.tv(new A.B9(A.VC(),null),s,null)}}
 A.yC.prototype={
 N(a,b){var s=null
-return A.r2(A.a([A.eI(A.kU(s,new A.zK(A.a8r(new A.bo(8,8)),A.a9b("profile.jpg",s),s),s,s,s,s,B.ao,s),1),A.eI(A.kU(s,new A.dT(B.jQ,s,s,A.PI(A.a8o("  Hello! Welcome to my landing page.\n  \n  My name is Matthew Anderson and I'm a Software Engineer and tech enthusiast based in Chicago IL.\n  \n  I have a BS in Computer Science and currently work full time at TIBCO Software.\n\n  My technical interests are primarily centered around networking, simulations, Linux, and privacy. That being said I am always interested in new technology which has the potential to make a positive impact on our all lives.\n\n  Tech aside, I'm passionate about fitness, playing guitar, and learning new things.\n  ",8,1,s,B.jq),0.8,0.8),s),s,s,s,s,B.ao,s),2)],t.E),B.b4)}}
+return A.r2(A.a([A.eI(A.kU(s,new A.zK(A.a8r(new A.bo(8,8)),A.a9b("profile.png",s),s),s,s,s,s,B.ao,s),1),A.eI(A.kU(s,new A.dT(B.jQ,s,s,A.PI(A.a8o("  Hello! Welcome to my landing page.\n  \n  My name is Matthew Anderson and I'm a Software Engineer and tech enthusiast based in Chicago IL.\n  \n  I have a BS in Computer Science and currently work full time at TIBCO Software.\n\n  My technical interests are primarily centered around networking, simulations, Linux, and privacy. That being said I am always interested in new technology which has the potential to make a positive impact on our all lives.\n\n  Tech aside, I'm passionate about fitness, playing guitar, and learning new things.\n  ",8,1,s,B.jq),0.8,0.8),s),s,s,s,s,B.ao,s),2)],t.E),B.b4)}}
 A.AE.prototype={
 N(a,b){var s=null
 return A.kU(s,A.r2(B.zo,B.b4),s,s,s,s,s,s)}}
