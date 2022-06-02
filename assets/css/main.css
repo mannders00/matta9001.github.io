@@ -2017,6 +2017,7 @@ input, select, textarea {
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
+			color: lightblue;
 		}
 
 		.icon > .label {
@@ -2055,7 +2056,7 @@ input, select, textarea {
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.5;
+			opacity: 0.2;
 			position: absolute;
 			top: 0;
 			width: 100%;
